@@ -7,16 +7,16 @@
       <dict>
       <key>CFBundleURLSchemes</key>
       <array>
-        <string>fb{YOUR_APP_ID}</string>
+        <string>fb{YOUR_FACEBOOK_APP_ID}</string>
       </array>
       </dict>
     </array>
     <key>FacebookAppID</key>
-    <string>{YOUR_APP_ID</string>
+    <string>{YOUR_FACEBOOK_APP_ID}</string>
     <key>FacebookDisplayName</key>
     <string>Facebook Signin Demo</string>
     <key>FacebookClientToken</key>
-    <string>{Client_Token}</string>
+    <string>{CLIENT_TOKEN}</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
